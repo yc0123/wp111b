@@ -1,0 +1,20 @@
+body{
+    background-color:aliceblue;
+    margin: 50px;
+    text-align: center;
+}
+h1{
+    color:blueviolet;
+    font-size: 50px;
+}
+p,a{
+    font-size: 30px;
+}
+input.c1{
+    margin:10px;
+    height: 25px;
+    width: 500px;
+}
+label.c2{
+    font-size: 15px;
+}
