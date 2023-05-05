@@ -1,4 +1,0 @@
-# list
-
-![](../img/seqPair.png)
-
